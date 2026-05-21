@@ -11,9 +11,9 @@ This repository is a dedicated environment for mastering high-scale software eng
 * `system_design.md`: Deep dive into infrastructure and architectural patterns.
 * `algorithms_practice.py`: Optimized implementations of core search and sort algorithms.
 * `unit_tests.py`: (Coming Soon) Validation scripts for ensuring system stability.
-
+* `mock_distributed_service.py`: Simulates data sharding and routing using a consistent hashing ring.
 ## 📈 Learning Roadmap
 - [x] Basic Algorithm Implementation
 - [x] Documentation of System Design principles
-- [X] Integration of Unit Testing Frameworks
-- [ ] Building a Mock Distributed Service
+- [x] Integration of Unit Testing Frameworks
+- [x] Building a Mock Distributed Service
